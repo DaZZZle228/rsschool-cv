@@ -25,4 +25,5 @@ I'm ready adopt skills and experience of more seasoned colleagues.
 * Data Structures and algorithms
 * Experience with Git
 * Intermediate level of English.
+
 ---
