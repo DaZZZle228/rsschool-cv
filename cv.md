@@ -9,3 +9,20 @@ I have no commercial development experience but I am prepared to learn new and k
 I'm ready adopt skills and experience of more seasoned colleagues.
 
 ---
+## My skills
+
+* Strong knowledge HTML5 & CSS3
+* Preprocessors like SASS and LESS.
+* Gulp
+* Bootstrap
+* Basics JavaScript 
+* Experience in JS ES6+
+* Cross-browser development
+* Basics React/Redux.
+* Basics knowledge C# and .NET, LINQ, Entity Framework
+* OOP Principles and architecture templates
+* SQL and TRANSACT-SQL
+* Data Structures and algorithms
+* Experience with Git
+* Intermediate level of English.
+---
